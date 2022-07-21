@@ -1,36 +1,52 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anas Muflih
-===================================================================================================================================
+### Hi there, I'm [Anas Muflih]👋
 
-* 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [muflihanas372@gmail.com](mailto:muflihanas372@gmail.com)
-* 🧠  I'm learning Android
+I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
 
-### Skills
+**My Reseach Interest**:
+- Gaming
+- Anime
+- Cat
 
-<p align="left">
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+ **I am open to**:
+
+- any collobration work,
+- free talk
+
+## Skills:
+
+#### Languages:
+
+![Kotlin](https://img.shields.io/badge/Kotlin-3E515A?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-F5F5F5.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=C++&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-121011?style=for-the-badge&logo=CSS&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-01579B.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-F5F5F5.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB3.svg?style=for-the-badge&logo=php&logoColor=white);
+![Flutter](https://img.shields.io/badge/Flutter-29B6F6.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![UIUX Design](https://img.shields.io/badge/Figma-F5F5F5.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+#### Tools and Technologies
+
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+#### IDEs
+
+![Android Studio](https://img.shields.io/badge/Android Studio-000000.svg?style=for-the-badge&logo=androidstudio&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+
+
+## Connect with me:
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/discrod-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://discord.com/Charlotte Chandl#4274)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/anas-muflih-003275236/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/anas.muflih)
+[<img src="https://img.shields.io/badge/dribbble-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://dribbble.com/ansz)
+[<img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.youtube.com/channel/UCaanLk_d73XSyW5FR67HfWA)
 </p>
-
-### Socials
-
-<p align="left"> 
-<a href="https://discord.com/users/Charlotte Chandl#4274" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.dribbble.com/ansz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/anszmflhs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/anas.muflih" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/anas-muflih-003275236" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.youtube.com/channel/UCaanLk_d73XSyW5FR67HfWA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/anszmflhs"><img src="https://github-readme-stats.vercel.app/api?username=anszmflhs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anszmflhs's GitHub stats" /></a>
 
