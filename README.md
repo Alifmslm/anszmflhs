@@ -40,7 +40,7 @@ I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/discrod-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://discord.com/Charlotte Chandl#4274)
+[<img src="https://img.shields.io/badge/discord-%2312100E.svg?&style=for-the-badge&logo=discord&logoColor=white&color=black" />](https://www.discord.com/Charlotte Chandl#4274)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/anas-muflih-003275236/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/anas.muflih)
 [<img src="https://img.shields.io/badge/dribbble-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://dribbble.com/ansz)
