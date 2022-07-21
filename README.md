@@ -1,4 +1,4 @@
-### Hi there, I'm [Anas Muflih]👋
+### Hi there, I'm Anas Muflih 👋
 
 I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
 
