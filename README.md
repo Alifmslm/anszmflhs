@@ -22,7 +22,7 @@ I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
 ![CSS](https://img.shields.io/badge/CSS-121011?style=for-the-badge&logo=CSS&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-01579B.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00608C.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB3.svg?style=for-the-badge&logo=php&logoColor=white);
+![PHP](https://img.shields.io/badge/PHP-777BB3.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-29B6F6.svg?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![UIUX Design](https://img.shields.io/badge/Figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
