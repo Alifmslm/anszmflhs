@@ -9,8 +9,8 @@ I am a Student at [IDN Boarding School](https://idn.sch.id), Indonesia.
 
  **I am open to**:
 
-- any collobration work,
-- free talk
+- Any collobration work,
+- Free talk
 
 ## Skills:
 
